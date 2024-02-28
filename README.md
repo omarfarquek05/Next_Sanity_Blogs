@@ -1,3 +1,5 @@
+![Screenshot (188)](https://github.com/omarfarquek05/Next_Sanity_Blogs/assets/89341479/149b312b-6db0-47e9-a305-b2cf7a45ef07)
+
 project live link : https://next-sanity-blogs-bice.vercel.app
 sanity link : https://nextblogs.sanity.studio/structure/blog
 
